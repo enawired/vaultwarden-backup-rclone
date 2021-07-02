@@ -1,6 +1,6 @@
 # Vaultwarden backup using rclone and crypt
 
-Here is how I backup my docker vaultewarden instance using rclone. 
+Here is how I backup my docker vaultwarden instance using rclone. 
 
 You can do this using rclone and crypt to encrypt the data, please replace all paths that are relevant to you and make sure you set up rclone using your own cloud provider. For reference I use WebDav on nextcloud. 
 
